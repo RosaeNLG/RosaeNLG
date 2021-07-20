@@ -14,6 +14,7 @@ const wikiExceptions = {
   axioma: 'm',
   boricua: 'n',
   califa: 'm',
+  cama: 'f',
   camión: 'm',
   Canadá: 'f',
   capibara: 'm',
